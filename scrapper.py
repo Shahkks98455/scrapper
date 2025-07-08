@@ -4,6 +4,13 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 
+#######################################
+#1. Change the code
+#2. git add .
+#3. git commit -m "Your message"
+#4. Git push
+######################################
+
 url = "http://books.toscrape.com/"
 
 def scrape_books(url):
